@@ -4,6 +4,9 @@
 
 using namespace std;
 
+int sum(int a, int b) {
+    return a + b;
+}
 
 bool sum(long long inp) {
     long long i = inp;
