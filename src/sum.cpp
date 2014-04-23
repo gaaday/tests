@@ -1,10 +1,11 @@
 //Author:::A
+//SUM
 #include <iostream>
 #include <string> 
 
 using namespace std;
 
-
+//SUM FUNCTION
 bool sum(long long inp) {
     long long i = inp;
     long long s = 0;
@@ -24,7 +25,7 @@ bool sum(long long inp) {
           
 }
 
-
+//MAIN function
 int main(int argc, char** argv) {
 
     long long input;
