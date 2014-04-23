@@ -1,9 +1,11 @@
 //Author:::A
+//SUM
 #include <iostream>
 #include <string> 
 
 using namespace std;
 
+//SUM FUNCTION
 int sum(int a, int b) {
     return a + b;
 }
@@ -27,7 +29,7 @@ bool sum(long long inp) {
           
 }
 
-
+//MAIN function
 int main(int argc, char** argv) {
 
     long long input;
